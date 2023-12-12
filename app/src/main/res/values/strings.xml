@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">busmanagementsystem</string>
+    <string name="home">Bus Pass</string>
+    <string name="login">Logout</string>
+    <string name="register">Details</string>
+    <string name="OpenDrawer">Open navigation drawer</string>
+    <string name="CloseDrawer">Close navigation drawer</string>
+</resources>
